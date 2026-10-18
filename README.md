@@ -1,55 +1,21 @@
-## Ship · learn · repeat
+# 💫 About Me:
+<br>* 🔭 I'm currently working on:** Full-stack web apps and AI-driven diagnostic tools (`repomedic`).<br>* 👯 I'm looking to collaborate on:** Open-source projects and hackathons.<br>* 🤝 I'm looking for help with:** Advanced deep learning architectures and agentic workflows.<br>* 🌱 I'm currently learning:** Deep learning models and artificial neural networks.<br>* 💬 Ask me about:** Java, Python, C++, SQL, and DBMS.<br>* ⚡ Fun fact : I love merging creative design with clean code.
 
-<div align="center">
 
-# Rashish imam
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rashish_08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rashish-imam-30121132a?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B4MOKzQOFTs6VznXUA%2FIuVQ%3D%3D) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rashish Imam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rashishimam@gmail.com) 
 
-> Frontend or full-stack engineer
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Rashishimam&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Rashishimam&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rashishimam&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=rashishimam&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187746389%3Fu%3D8eab88fcaa672e6917139daaec925853151a920d%26v%3D4" alt="rashishimam hero visual" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rashishimam&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=Rashishimam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## The current loop
-
-> Hii I'M Rashish imam first year undergrade at RVS College of Engineering and Technology, Jamshedpur pursuing my bachelor's degree in computer science
-
-- 📍 Based in **Jamshedpur, Jharkhand **
-- 👥 **2** followers · **2** following
-
-*Small, useful work over vague claims.*
-
-## Things I’m building
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/Rashishimam/Rashishimam">Rashishimam</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Rashishimam/Event-registration-platform-">Event-registration-platform-</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Rashishimam/Student-Project-Showcase">Student-Project-Showcase</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Rashishimam/Expense-Tracker">Expense-Tracker</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Batchfile · 0 stars</sub></td></tr>
-</table>
-
-## Signals
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=rashishimam&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187746389%3Fu%3D8eab88fcaa672e6917139daaec925853151a920d%26v%3D4" alt="rashishimam stats visual" />
-</p>
-
-<p><code>59 contributions</code> · <code>2 day streak</code></p>
-
-## The shipping calendar
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=rashishimam&theme=satan" alt="rashishimam contribution activity" />
-</p>
-
-## Work with me
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=rashishimam&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187746389%3Fu%3D8eab88fcaa672e6917139daaec925853151a920d%26v%3D4" alt="rashishimam social visual" />
-</p>
-
-<a href="https://github.com/rashishimam">GitHub</a>
-
-<p align="center"><sub>Rashish imam · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
