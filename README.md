@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>* 🔭 I'm currently working on:** Full-stack web apps and AI-driven diagnostic tools (`repomedic`).<br>* 👯 I'm looking to collaborate on:** Open-source projects and hackathons.<br>* 🤝 I'm looking for help with:** Advanced deep learning architectures and agentic workflows.<br>* 🌱 I'm currently learning:** Deep learning models and artificial neural networks.<br>* 💬 Ask me about:** Java, Python, C++, SQL, and DBMS.<br>* ⚡ Fun fact : I love merging creative design with clean code.
+<br>* 🔭 I'm currently working on: Full-stack web apps and AI-driven diagnostic tools (`repomedic`).<br>* 👯 I'm looking to collaborate on:** Open-source projects and hackathons.<br>* 🤝 I'm looking for help with:** Advanced deep learning architectures and agentic workflows.<br>* 🌱 I'm currently learning:** Deep learning models and artificial neural networks.<br>* 💬 Ask me about:** Java, Python, C++, SQL, and DBMS.<br>* ⚡ Fun fact : I love merging creative design with clean code.
 
 
 ## 🌐 Socials:
